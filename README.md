@@ -1,16 +1,16 @@
-## Laboratory Management System in PHP
+# Laboratory Management System in PHP
 
-# About Project
+## About Project
 Laboratory Management System is developed using PHP, CSS, Bootstrap, and JavaScript. Talking about the project, it contains an admin side where a user can manage all the inventory records. The admin plays an important role in the management of this system. In this project, the user has to perform all the main functions from the admin side.
 
-# About System
+## About System
 Talking about the features of the Laboratory Management System, the user has can manage transactions such as reservations, borrowed and returned items. To add a new transaction, the user has to select borrower, items, room and time limit. In order to add an item, the user has to provide device id, model, category, brand, description, quantity, type, MR, price, and a photo. Beside all these, the user can also add faculty, room, and inventory. The user can view all the records in the form of graphs and pie charts. It also contains user management for the easy management of the system.
 
 Design of this project is pretty simple so that the user won’t find any difficulties while working on it. Laboratory Management System in PHP helps the user in managing inventory and transactions. To run this project you must have installed virtual server i.e XAMPP on your PC (for Windows). Laboratory Management System in PHP with source code is free to download, Use for educational purposes only! For the project demo, have a look at the Video below.
 
-# Features:
+## Features:
 
-# Login System
+## Login System
 User Management System
 Manage Transactions
 CRUD Items, Room
