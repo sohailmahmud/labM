@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -14,14 +13,8 @@
 	<link rel="stylesheet" type="text/css" href="assets/custom/css/datepicker.css">
 	<link rel="stylesheet" type="text/css" href="assets/custom/css/datepicker3.css">
 	<link rel="stylesheet" type="text/css" href="assets/custom/css/styles.css">
-
-	<!-- toastr -->
 	<link rel="stylesheet" type="text/css" href="assets/toastr/css/toastr.css">
-
-	<!-- custom -->
 	<link rel="stylesheet" type="text/css" href="assets/mycustom/css/styles.css">
-
-
 </head>
 <body class="index-body">
 
@@ -51,10 +44,6 @@
 			</div><!-- /.col-->
 		</div><!-- /.row -->	
 	</div><!-- /.row -->	
-
-
-
-
 
 	<!-- javascript -->
 	<script type="text/javascript" src="assets/custom/js/jquery-1.11.1.min.js"></script>
