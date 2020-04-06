@@ -46,7 +46,6 @@
 	<script type="text/javascript" src="../assets/amcharts/themes/light.js"></script>
 	<script type="text/javascript" src="../assets/amcharts/pie.js"></script>
 
-	
 	<!-- table display -->
 	<script type="text/javascript" src="../assets/mycustom/js/table_display.js"></script>
 	<script type="text/javascript" src="../assets/mycustom/js/custom.js"></script>
