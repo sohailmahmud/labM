@@ -118,7 +118,6 @@
 			</li> -->
 		</ul>
 	</div><!--/.sidebar-->
-
 	<div class="row-fluid">
 		<div class="col-md-12 main">
 			<div class="col-sm-9 col-lg-10 col-md-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-3">
