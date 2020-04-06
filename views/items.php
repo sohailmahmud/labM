@@ -269,7 +269,6 @@
 	</div>
 </div>
 
-
 <div class="right-sidebar equipment-view">
 	<div class="sidebar-form equipment-form">
 		
