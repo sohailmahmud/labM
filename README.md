@@ -21,13 +21,14 @@ How To Run??
 After Starting Apache and MySQL in XAMPP, follow the following steps
 
 
+
 1st Step: Extract file
 
 2nd Step: Copy the main project folder
 
 3rd Step: Paste in xampp/htdocs/
 
-Now Connecting Database
+Now Connecting Database.
 
 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
 
