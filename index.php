@@ -17,7 +17,6 @@
 	<link rel="stylesheet" type="text/css" href="assets/mycustom/css/styles.css">
 </head>
 <body class="index-body">
-
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
