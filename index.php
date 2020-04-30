@@ -43,7 +43,6 @@
 			</div><!-- /.col-->
 		</div><!-- /.row -->	
 	</div><!-- /.row -->	
-
 	<!-- javascript -->
 	<script type="text/javascript" src="assets/custom/js/jquery-1.11.1.min.js"></script>
 	<script type="text/javascript" src="assets/custom/js/bootstrap.min.js"></script>
