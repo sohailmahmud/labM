@@ -1,4 +1,4 @@
-# Laboratory Management System in PHP
+# Laboratory Management System
 
 ## About Project
 Laboratory Management System is developed using PHP, CSS, Bootstrap, and JavaScript. Talking about the project, it contains an admin side where a user can manage all the inventory records. The admin plays an important role in the management of this system. In this project, the user has to perform all the main functions from the admin side.
